@@ -12,19 +12,9 @@ This comprehensive dataset contains **197.5 hours** of high-resolution driving d
 
 [KIA Niro](https://www.dropbox.com/scl/fo/fmw01x88h2a6cg79f3vq9/AHolXiHiZh0ZNEi0m7Gu1Bo?rlkey=1mjk80bcwmg57frwl7a6pdkud&st=rigc60ma&dl=0)
 
-[Ford MACH-E](https://www.dropbox.com/scl/fo/ligs9qfla8m8hu612hoy1/AEEAVYsawtEf6XGjFQw75wU?rlkey=yz0u91hwu7tirjvwgydeinbwx&st=14utc645&dl=0)
-
-[Tesla Model3](https://www.dropbox.com/scl/fo/dawpmyrgoe9exrj2gher2/APiGMq7uLL0cVKSUYViUaMY?rlkey=ryms6kas77dunlskj1jttspkp&st=d53fhk46&dl=0) / [Driver 2](https://www.dropbox.com/scl/fo/yv3de6qm4m4in2qua6va6/ACm1yckyUvy-LLQmVTb434U?rlkey=yzza7e60e3s81ulkexad3nkvo&st=kktp6rle&dl=0)
-
-[Hyundai ioniq-5](https://www.dropbox.com/scl/fo/s3mnbuo6fywftyatli9bz/AD0cdjEVAIfhR6Pad5uKwOA?rlkey=q72tca0iymk2b1or05bm4zinm&st=dc79y5mz&dl=0)
-
 
 
 *ICEV Comparision*
-
-[HONDA ACCORD](https://www.dropbox.com/scl/fo/kl32fyi7tfoq0cak46qt8/AGgwNLBHHOlgaDqXWjqaP3I?rlkey=gynad2epdb9a1fnq8sq3i0r1b&st=yx5lt74b&dl=0)
-
-[Toyota Rav4](https://www.dropbox.com/scl/fo/eo4nzva0r3e30mwn955g3/ANcOmnPje8zZ3aMAIwkHFpM?rlkey=a87uszs8ge624pm52bo3c9ltf&st=xc6hosfo&dl=0)
 
 [Toyota Camry 2021](https://www.dropbox.com/scl/fo/ho6u96pauyvjpgodlhhlr/AEZya3nv726la8PAnDHUmiY?rlkey=zmf1umkn4o6kty9alitq9vpu6&st=zeh41z1t&dl=0)
 
