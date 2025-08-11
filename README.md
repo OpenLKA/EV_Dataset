@@ -6,20 +6,6 @@ This comprehensive dataset contains **197.5 hours** of high-resolution driving d
 
 
 
-## Download Source (Partially public)
-
-*EV*
-
-[KIA Niro](https://www.dropbox.com/scl/fo/fmw01x88h2a6cg79f3vq9/AHolXiHiZh0ZNEi0m7Gu1Bo?rlkey=1mjk80bcwmg57frwl7a6pdkud&st=rigc60ma&dl=0)
-
-
-
-*ICEV Comparision*
-
-[Toyota Camry 2021](https://www.dropbox.com/scl/fo/ho6u96pauyvjpgodlhhlr/AEZya3nv726la8PAnDHUmiY?rlkey=zmf1umkn4o6kty9alitq9vpu6&st=zeh41z1t&dl=0)
-
-
-
 ## Dataset Composition
 
 ### Data Sources
